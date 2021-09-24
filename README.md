@@ -1,2 +1,2 @@
-# CabbyCode-Logowanie
-Pierwotny pomysł amatorskiego logowania na stronę internetową CabbyCode wykonane w HTML oraz CSS.
+# Ctrl - area.pl
+Pierwotny pomysł amatorskiego logowania na stronę internetową wykonane w HTML oraz CSS.
